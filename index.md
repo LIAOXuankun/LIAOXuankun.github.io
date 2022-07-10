@@ -6,6 +6,10 @@ I'm currently a year 2 Phd student in the [Database Group](https://www.comp.hkbu
 
 I am interested in graph data management, especially distributed and parallel graph computation. I also have interest in developing efficient algorithms for streaming graph computation.  
 
+## Contact
+
+Email:xkliao@comp.hkbu.edu.hk
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

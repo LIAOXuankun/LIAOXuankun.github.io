@@ -1,7 +1,5 @@
 <h1 align="left">
-    <img src="me.jpg" width="100" alt="libgrape-lite">
-    <br>
-    libgrape-lite
+    <img src="me.jpg" width="300" alt="libgrape-lite">
 </h1>
 
 ## Biography

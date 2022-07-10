@@ -10,6 +10,10 @@ I am interested in graph data management, especially distributed and parallel gr
 
 Email:xkliao@comp.hkbu.edu.hk
 
+## Honors & Awards
+1. Outstanding Graduate, HUST, 2020 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

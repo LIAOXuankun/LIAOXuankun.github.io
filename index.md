@@ -1,6 +1,8 @@
-## Test
-
-![alt](me.jpg)
+<h1 align="left">
+    <img src="me.jpg" width="100" alt="libgrape-lite">
+    <br>
+    libgrape-lite
+</h1>
 
 ## Biography
 

@@ -8,7 +8,27 @@ I am interested in graph data management, especially distributed and parallel gr
 
 ## Contact
 
-Email:xkliao@comp.hkbu.edu.hk
+Email: xkliao@comp.hkbu.edu.hk
+
+##Publications [[DBLP]](https://dblp.org/pid/313/9191.html) [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=s9Kv6Q4AAAAJ)
+
+1. @article{10.14778/3529337.3529340,
+author = {Liao, Xuankun and Liu, Qing and Jiang, Jiaxin and Huang, Xin and Xu, Jianliang and Choi, Byron},
+title = {Distributed D-Core Decomposition over Large Directed Graphs},
+year = {2022},
+issue_date = {April 2022},
+publisher = {VLDB Endowment},
+volume = {15},
+number = {8},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3529337.3529340},
+doi = {10.14778/3529337.3529340},
+abstract = {Given a directed graph G and integers k and l, a D-core is the maximal subgraph H ⊆ G such that for every vertex of H, its in-degree and out-degree are no smaller than k and l, respectively. For a directed graph G, the problem of D-core decomposition aims to compute the non-empty D-cores for all possible values of k and l. In the literature, several peeling-based algorithms have been proposed to handle D-core decomposition. However, the peeling-based algorithms that work in a sequential fashion and require global graph information during processing are mainly designed for centralized settings, which cannot handle large-scale graphs efficiently in distributed settings. Motivated by this, we study the distributed D-core decomposition problem in this paper. We start by defining a concept called anchored coreness, based on which we propose a new H-index-based algorithm for distributed D-core decomposition. Furthermore, we devise a novel concept, namely skyline coreness, and show that the D-core decomposition problem is equivalent to the computation of skyline corenesses for all vertices. We design an efficient D-index to compute the skyline corenesses distributedly. We implement the proposed algorithms under both vertex-centric and block-centric distributed graph processing frameworks. Moreover, we theoretically analyze the algorithm and message complexities. Extensive experiments on large real-world graphs with billions of edges demonstrate the efficiency of the proposed algorithms in terms of both the running time and communication overhead.},
+journal = {Proc. VLDB Endow.},
+month = {apr},
+pages = {1546–1558},
+numpages = {13}
+}
 
 ## Honors & Awards
 1. Outstanding Graduate, HUST, 2020 

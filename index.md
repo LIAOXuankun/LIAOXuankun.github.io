@@ -1,6 +1,6 @@
 ## Biography
 
-I'm currently a year 2 Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/).
+I'm currently a year 2 Phd student in the [Database Group](https://www.comp.hkbu.edu.hk/~db/index.html) of the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/), Hong Kong Baptist University (HKBU) supervised by [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I obtained my Bachelor's degree from the School of Electronic Information and Communications [(EIC)](http://ei.hust.edu.cn/English/Home.htm), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/) in 2020.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="me.jpg" width="300" alt="libgrape-lite">
+    <img src="me-1.jfif" width="300" alt="libgrape-lite">
 </h1>
 
 ## Biography

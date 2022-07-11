@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="me-1.jfif" width="300" alt="libgrape-lite">
+    <img src="Photo.jpg" width="300" alt="libgrape-lite">
     <P align=right> Liao Xuankun </P>
 </h1>
 
